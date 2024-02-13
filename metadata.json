@@ -1,5 +1,7 @@
-name: "edm12345"
-website: "https://github.com/edm12345"
-description: "mangata"
-logo: "https://raw.githubusercontent.com/edm12345/edm/main/230776662-b35d69ab-f3a2-4c4b-975f-f36dd7c1d2db.png"
-twitter: "https://twitter.com/EnesDem68527949"
+{
+  "name": "edm12345",
+  "website": "https://github.com/edm12345",
+  "description": "mangata",
+  "logo": "https://raw.githubusercontent.com/edm12345/edm/main/230776662-b35d69ab-f3a2-4c4b-975f-f36dd7c1d2db.png",
+  "twitter": "https://twitter.com/EnesDem68527949"
+}
